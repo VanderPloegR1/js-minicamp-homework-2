@@ -4,11 +4,11 @@
 ---
 1. Feynman Writing Prompts - Write out explanations of the following concepts like you are explaining it to a 12 year old.  Doing this will help you quickly discover any holes in your understanding.  Ask your questions on Slack.
 		
-	* for loop
-	* && || !
-	* Array
-	* git
-	* GitHub
+	* for loop: This is like a racetrack, it goes around and repeats but after the racers go around the correct number of times they are told to stop. The catch, however, is that the racers complete a task everytime they go around the track.
+	* && || !: && - this connects two test, and you have to pass both to go on. || - this provides two tests, if you pass one you get to go on. ! - this reverses the logic, it basically just means slapping "not" at the begging of a test. eg "if this is NOT(!) true"
+	* Array - This is like a deposit box at a bank. They all are from the same bank and have the same name, but each has a number, and isnside each box is its own item.
+	* git - This is a set of codes that help you edit little pieces of code and then it will automatically peice it back together after your changes are approved. This way a lot of people can work on one project.
+	* GitHub - This is a website that uses git and hosts code on the cloud.
 
 
 2. Install git.  https://git-scm.com/downloads
